@@ -1,6 +1,6 @@
 # Learn Scala Programming
 
-<a href="https://www.packtpub.com/application-development/learn-scala-programming?utm_source=github&utm_medium=repository&utm_campaign=9781788392822 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B08291.png" alt="Learning Scala Programming" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/application-development/learn-scala-programming?utm_source=github&utm_medium=repository&utm_campaign=9781788392822 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B08291.png" alt="Learn Scala Programming" height="256px" align="right"></a>
 
 This is the code repository for [Learn Scala Programming](https://www.packtpub.com/application-development/learn-scala-programming?utm_source=github&utm_medium=repository&utm_campaign=9781788392822 ), published by Packt.
 
